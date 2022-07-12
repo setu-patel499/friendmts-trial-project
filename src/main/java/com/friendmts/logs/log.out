@@ -1,0 +1,5 @@
+2022-07-12 12:07:69 INFO  ManageDriver :31 - launching chrome browser
+2022-07-12 12:07:671 INFO  HomePage :37 - Clicking on acceptCookies : [[ChromeDriver: chrome on WINDOWS (1764c32b2c6792ca2dbac7eef4aa3900)] -> xpath: //button[@id='cookienote-continue-button']]
+2022-07-12 12:07:862 INFO  HomePage :42 - MouseHovering to PlatfromProtection :[[ChromeDriver: chrome on WINDOWS (1764c32b2c6792ca2dbac7eef4aa3900)] -> xpath: //body[1]/div[1]/div[2]/nav[1]/section[1]/ul[1]/li[2]/a[1]/span[1]]
+2022-07-12 12:07:608 INFO  HomePage :47 - MouseHoverAndClick on broadcastId: [[ChromeDriver: chrome on WINDOWS (1764c32b2c6792ca2dbac7eef4aa3900)] -> xpath: //body/div[1]/div[2]/nav[1]/section[1]/ul[1]/li[2]/ul[1]/li[4]/a[1]]
+2022-07-12 12:07:640 INFO  HomePage :52 - Getting text from : [[ChromeDriver: chrome on WINDOWS (1764c32b2c6792ca2dbac7eef4aa3900)] -> xpath: //h5[contains(text(),'Protect your broadcast content')]]
